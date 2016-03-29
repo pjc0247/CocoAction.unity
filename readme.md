@@ -34,6 +34,6 @@ RepeatUntil.Create(
 
 ToDo
 -----
-* 磊眉利牢 咀记 贸府 (泅犁 NGUI TWEEN)
+* 鞛愳泊鞝侅澑 鞎§厴 觳橂Μ (順勳灛 NGUI TWEEN)
 * EASSSSSEEEEING
 * pause/resume
